@@ -1,2 +1,2 @@
-# COSC-210
-Projects from my Data Structures and Algorithms class
+# AirportSimulator
+Project from my Data Structures and Algorithms class
